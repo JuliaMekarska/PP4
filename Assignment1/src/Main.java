@@ -14,8 +14,8 @@ public class Main {
         Ex2.Fifo();
 
         //Ex3
-        Ex3.writeToFile("Hello World!", "C:\\Users\\jmeka\\OneDrive\\Desktop\\Sql\\ROKII\\Sem letni\\PP4\\Assignment1\\src\\Assignment1");
-        Ex3.writeToFile("Hello World!!!", "C:\\Users\\jmeka\\OneDrive\\Desktop\\Sql\\ROKII\\Sem letni\\PP4\\Assignment1\\src\\Assignment1");
+        Ex3.writeToFile("Hello World!", "C:\\Users\\jmeka\\OneDrive\\Desktop\\Sql\\ROKII\\SemLetni\\PP4\\Assignment1\\fileName.txt");
+        Ex3.writeToFile("Hello World!!!", "C:\\Users\\jmeka\\OneDrive\\Desktop\\Sql\\ROKII\\SemLetni\\PP4\\Assignment1\\fileName.txt");
 
         //Ex4
         Zajecia analiza = new Zajecia("Analiza", 40);

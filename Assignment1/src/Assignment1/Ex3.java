@@ -1,6 +1,5 @@
 package Assignment1;
-import java.io.FileWriter;
-import java.io.IOException;
+import java.io.*;
 
 public class Ex3 {
     public static void writeToFile(String line, String path) throws IOException {
